@@ -42,24 +42,22 @@ The demo video is given : /screenshots/demo.mp4
 streamlit run Home.py
 ```
 ## SCREENSHOTS
-
-![Alert System](/screenshots/aut1.png)
-
-
-![Screenshot 2](/screenshots/aut2.png)
-![Screenshot 2](/screenshots/aut3.png)
-![Screenshot 2:](/screenshots/aut4.png)
-![Screenshot 2](/screenshots/aut5.png)
-
+<p>
+<img src="/screenshots/aut1.png" alt="Alert System" width="400" />
+<img src="/screenshots/aut2.png" alt="Screenshot 2" width="400" />
+<img src="/screenshots/aut3.png" alt="Screenshot 3" width="400" />
+<img src="/screenshots/aut4.png" alt="Screenshot 4" width="400" />
+<img src="/screenshots/aut5.png" alt="Screenshot 5" width="400" />
+</p>
 ## LIME EXPLANATION
-
-![Screenshot 2](/screenshots/aut6.png)
-![Screenshot 2](/screenshots/aut7.png)
-
+<p>
+<img src="/screenshots/aut6.png" alt="Screenshot 6" width="400" />
+<img src="/screenshots/aut7.png" alt="Screenshot 7" width="400" />
+</p>
 ## PLOTS
-
-![Screenshot 2](/screenshots/aut8.png)
-![Screenshot 2](/screenshots/aut9.png)
-![Screenshot 2](/screenshots/aut10.png)
-
+<p>
+<img src="/screenshots/aut8.png" alt="Screenshot 8" width="400" />
+<img src="/screenshots/aut9.png" alt="Screenshot 9" width="400" />
+<img src="/screenshots/aut10.png" alt="Screenshot 10" width="400" />
+</p>
 
